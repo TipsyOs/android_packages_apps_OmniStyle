@@ -97,8 +97,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-		
-		<activity
+
+        <activity
             android:name=".tipsy_pete"
             android:label="Tipsy by Pete Best" >
             <intent-filter>
@@ -110,16 +110,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".tipsy_syed"
-	    android:label="Tipsy by Syed" >
-            <intent-filter>
-		<action android:name="org.omnirom.DaylightHeadersPack1" />
+            android:label="Tipsy by Syed" >
+             <intent-filter>
+                <action android:name="org.omnirom.DaylightHeadersPack1" />
 				
-		<category android:name="android.intent.category.DEFAULT" />
-	    </intent-filter>
-	</activity>
-		
-			 
-		<activity
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
             android:name=".wavvy"
             android:label="Wavvy" >
             <intent-filter>
