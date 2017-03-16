@@ -112,7 +112,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:name=".tipsy_syed"
             android:label="Tipsy by Syed" >
              <intent-filter>
-                <action android:name="org.omnirom.DaylightHeadersPack1" />
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
 				
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
